@@ -47,6 +47,7 @@ h3{font-size:1.6rem}
 .list article{display:grid;grid-template-columns:220px 1fr;gap:2rem;padding:2rem 0;border-top:1px solid var(--line)}
 .list article:last-child{border-bottom:1px solid var(--line)}
 .list .meta{color:var(--muted);font-size:.9rem}
+.product-logo{width:220px;height:auto;display:block;margin:0 0 1rem;background:#fff}
 .placeholder{color:var(--muted);font-style:italic}
 .contact-card{margin:0 5vw 8rem;padding:4rem;background:var(--white);max-width:760px}
 .contact-card p{max-width:580px}
